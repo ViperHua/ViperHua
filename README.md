@@ -12,7 +12,7 @@ I am a backend engineer focused on Web3 infrastructure, trading systems, and hig
 - 🚀 8+ years building production backend systems
 - 📈 Focused on on-chain indexing, settlement pipelines, observability and reliability
 - 🌐 Portfolio: [rock.xieth.top](https://rock.xieth.top)
-- 💬 Contact: `linchuan.dev@example.com`
+- 💬 Contact: `xiewangfuya@gmail.com`
 
 <code><img height="22" alt="golang" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>
 <code><img height="22" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
